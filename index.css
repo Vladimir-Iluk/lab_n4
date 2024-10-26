@@ -1,0 +1,39 @@
+.task1 {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .task1, th, .td1 {
+    border: 2px solid black;
+  }
+  
+  .td1 {
+    height: 50px; 
+  }
+  .task2 {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .task2, th, .td2 {
+    border: 2px solid black;
+  }
+  
+  .td2 {
+    height: 70px; 
+  }
+  p {
+    text-align: center;
+  }
+  .table3 {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table3, th, .td3 {
+    border: 2px solid black;
+  }
+  
+  .td3 {
+    height: 200px; 
+  }

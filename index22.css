@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color: #71bde9;
+}
+h1, h2, h3 {
+    color: #000000;
+}
+
+
+blockquote {
+    border-left: 4px solid #71bde9;
+    padding-left: 10px;
+    color: #000000;
+}
+li {
+    list-style-type: none;
+  }

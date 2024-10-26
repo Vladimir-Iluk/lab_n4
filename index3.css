@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+h1 {
+    color: #641e5f;
+}
+.link-container {
+    margin-top: 20px;
+}
+a {
+    background-color: #641e5f;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+p {
+    color: #641e5f;
+}
